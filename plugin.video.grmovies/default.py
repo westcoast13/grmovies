@@ -1,6 +1,7 @@
 import urllib,urllib2,re,xbmcplugin,xbmcgui,xbmcaddon,xbmc,os, sys
 
-#TV DASH - by You 2008.
+# greek-movies.com xbmc plugin.
+# created by westcoast13
 
 #get path to me
 osPath=os.getcwd()
