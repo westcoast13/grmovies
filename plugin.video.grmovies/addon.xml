@@ -2,7 +2,7 @@
 <addon id="plugin.video.grmovies"
        name="Greek-Movies.com"
        version="0.0.2"
-       provider-name="JustMe">
+       provider-name="JustMe!!!">
   <requires>
     <import addon="xbmc.python" version="1.0"/>
   </requires>
