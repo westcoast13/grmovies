@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.grmovies"
        name="Greek-Movies.com"
-       version="0.0.1"
+       version="0.0.2"
        provider-name="JustMe">
   <requires>
     <import addon="xbmc.python" version="1.0"/>
@@ -13,6 +13,6 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <summary>Greek-Movies.com video plugin</summary>
-    <description>Plugin that let's you to browse and play videos from Greek-Movies.com!</description>
+    <description>Plugin that let's you to browse and play videos from Greek-Movies.com! Only working for music and a few movies (youtube, vimeo, googlevideo & datemule)</description>
   </extension>
 </addon>
